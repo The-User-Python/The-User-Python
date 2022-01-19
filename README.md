@@ -8,5 +8,4 @@
 - 📫 How to reach me: agmdaksh@gmail.com
 - 😄 Pronouns: Helping with Funding
 - ⚡ Fun fact: Being online and playing chess 
-- * My chess id's: https://lichess.org/@/Geffforever
 - @ Join my chess team: https://lichess.org/team/geffforevers-union
