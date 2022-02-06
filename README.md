@@ -8,7 +8,5 @@
 - 📫 How to reach me: agmdaksh@gmail.com
 - 😄 Pronouns: Helping with Funding
 - ⚡ Fun fact: Being online and playing chess 
-- @ Join my chess team: https://lichess.org/team/geffforevers-union
-- $ Developed a fork dino game : https://dakshcodess.github.io/DinoGame/ 
-- # If you wanna help me to build up more fork : https://github.com/DakshCodess/DinoGame 
-- * Developed another game : https://dakshcodess.github.io/OnlineAlienGame/ 
+- @ Join my chess team: https://playstrategy.org/team/zoo-animal-kingdom 
+- 🤖Developed a fork dino game : https://dakshcodess.github.io/DinoGame/ 
