@@ -22,3 +22,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-003B57?&logo=postgresql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=TypeScript&logoColor=ffffff)
+
+## Current Project 
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DakshCodess&repo=olegsoloviev.github.io&show_owner=true&theme=algolia" />
+</a>
