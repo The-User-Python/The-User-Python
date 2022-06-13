@@ -10,8 +10,10 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/DakshCodess/super-mario-bros/graphs/commit-activity)
 
+## Views
+<p align="center"><img src="https://gpvc.arturio.dev/WennMarcoRTX"/></p>
 
-
+<div id="badges" align="center">
 
 
 ## TECH
@@ -27,3 +29,10 @@
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DakshCodess&repo=olegsoloviev.github.io&show_owner=true&theme=algolia" />
 </a>
+
+## Trophy 
+<div>
+    <a><h2>Trophies</h2></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=DakshCodess&row=4&theme=onedark&no-frame=true"/>
+</div>
